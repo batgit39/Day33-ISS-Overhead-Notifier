@@ -1,8 +1,10 @@
 # Day33-ISS-Overhead-Notifier
 This is a email notifier, which triggers whenever the ISS is over your co-ordinates and it's night.
+
 This project uses 2 api:
 
 1: To get the location of the ISS - http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
 2: To check if it's night - https://sunrise-sunset.org/api
 ex-
 
